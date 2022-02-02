@@ -1,0 +1,98 @@
+﻿  compat.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\compat\compat.c(281,72): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\compat\compat.c(300,93): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\compat\compat.c(621,51): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\compat\compat.c(636,46): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  compat_str.c
+  dct64.c
+  dct64_i386.c
+  equalizer.c
+  feature.c
+  format.c
+  frame.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\frame.c(708,18): warning C4267: '=': conversion from 'size_t' to 'off_t', possible loss of data
+  icy.c
+  icy2utf8.c
+  id3.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\id3.c(815,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\id3.c(941,44): warning C4267: '+=': conversion from 'size_t' to 'unsigned long', possible loss of data
+  index.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\index.c(91,28): warning C4267: 'initializing': conversion from 'size_t' to 'off_t', possible loss of data
+  layer1.c
+  layer2.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\layer2.c(132,40): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\layer2.c(138,48): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\layer2.c(153,40): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\layer2.c(204,41): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\layer2.c(236,47): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  layer3.c
+  libmpg123.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\libmpg123.c(881,25): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\libmpg123.c(961,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\libmpg123.c(1107,67): warning C4267: 'function': conversion from 'size_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\libmpg123.c(1111,69): warning C4267: 'function': conversion from 'size_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\libmpg123.c(1272,42): warning C4244: '=': conversion from 'ssize_t' to 'off_t', possible loss of data
+  msvc.c
+  ntom.c
+  optimize.c
+  parse.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\parse.c(1075,26): warning C4244: '=': conversion from 'ssize_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\parse.c(1231,27): warning C4244: '=': conversion from 'ssize_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  readers.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(31,82): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(131,65): warning C4244: '+=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(133,21): warning C4244: '-=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(149,64): warning C4244: '+=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(168,66): warning C4244: '+=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(178,29): warning C4267: 'function': conversion from 'size_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(190,20): warning C4244: '-=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(220,63): warning C4244: '+=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(305,28): warning C4244: 'initializing': conversion from 'ssize_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(321,28): warning C4244: 'initializing': conversion from 'ssize_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(347,24): warning C4244: 'return': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(349,11): warning C4244: '-=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(391,24): warning C4244: '=': conversion from 'ssize_t' to 'long', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(404,44): warning C4244: '=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(734,19): warning C4244: '+=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(787,21): warning C4244: 'initializing': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(807,45): warning C4244: '=': conversion from 'ssize_t' to 'off_t', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\readers.c(817,21): warning C4244: 'return': conversion from 'ssize_t' to 'off_t', possible loss of data
+  stringbuf.c
+  synth.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  synth_8bit.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_8bit.h(20,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_8bit.h(45,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_8bit.h(69,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  synth_real.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  synth_s32.c
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\src\libmpg123\synth_mono.h(29,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  tabinit.c
+  Generating Code...
+  getcpuflags_x86_64.S
+  dct36_x86_64.S
+  synth_x86_64_float.S
+  synth_x86_64_s32.S
+  synth_stereo_x86_64_float.S
+  synth_stereo_x86_64_s32.S
+  synth_x86_64.S
+  dct64_x86_64.S
+  dct64_x86_64_float.S
+  synth_stereo_x86_64.S
+  synth_x86_64_accurate.S
+  synth_stereo_x86_64_accurate.S
+     Creating library C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\ports\MSVC++\2015\win32\x64\Debug\libmpg123.lib and object C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\ports\MSVC++\2015\win32\x64\Debug\libmpg123.exp
+LINK : warning LNK4281: undesirable base address 0x63000000 for x64 image; set base address above 4GB for best ASLR optimization
+  libmpg123.vcxproj -> C:\Users\Brian Kirkpatrick\Projects\SDL\mpg123\ports\MSVC++\2015\win32\x64\Debug\libmpg123.dll
